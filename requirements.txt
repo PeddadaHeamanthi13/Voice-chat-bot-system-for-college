@@ -1,0 +1,7 @@
+pip install werkzeug==0.16.0
+pip install pandas
+pip install flask
+pip install mysql-connector-python
+pip install gtts
+pip install SpeechRecognition
+pip install PyAudio
